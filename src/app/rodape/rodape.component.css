@@ -1,0 +1,11 @@
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 90px;
+    padding-top: 30px;
+}
+
+p {
+    font-size: 23px;
+}
